@@ -14,6 +14,8 @@ Graph theory is used to study these networks.
 
 This Project explores the social media platform Meetup for Nashville City. 
 
+Dataset is available here - https://www.kaggle.com/datasets/stkbailey/nashville-meetup 
+
 ## Pre-Requisites 
 
 a. Python NetworkX Package for analyzing graph network. 
